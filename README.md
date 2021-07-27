@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
@@ -63,3 +64,7 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 =======
 # eLearning-Laravel
 >>>>>>> af7db273cc725802983111d2d5095149a34418a7
+=======
+# Laravel-Demo
+This is a demo of laravel project with vue js
+>>>>>>> 7a6bbcebe74e37e34a7fe87440ced9511105df84
